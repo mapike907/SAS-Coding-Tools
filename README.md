@@ -1,2 +1,2 @@
 # SAS-Coding-Tools
- SAS Coding Tools for my team
+ SAS coding tools for SAS learners on my team
